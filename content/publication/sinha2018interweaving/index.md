@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Interweaving Convolutions: An application to Audio Classification"
-authors: [admin]
+authors: [admin, Pawan K Ajmera]
 date: 2018-08-23T16:19:14+05:30
 doi: ""
 
@@ -16,10 +16,11 @@ publishDate: 2020-04-05T16:19:14+05:30
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Interweaving Convolutions: An application to Audio Classification"
-publication_short: ""
+publication: "24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+publication_short: "KDD Deep Learning Day 2018"
 
-abstract: ""
+abstract: "The monumental success of Convolutional Neural Networks (CNNs) in the field of image classification has motivated the application of CNNs in the domain of auditory data. Prior works have shown performance of Hidden Markov Models (HMMs) and Deep Neural Networks (DNNs) in the field of Content-based Audio Classification. This paper presents a novel concatenating strategy for a CNN-based neural architecture. The proposed methodology was evaluated for audio classification task using UrbanSound8K dataset (US8K) as benchmark. The proposed architecture achieves an average recognition accuracy of 97.55 %, an average EER of  .14% on US8K dataset. A small-footprint variant of the proposed architecture is also proposed.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""

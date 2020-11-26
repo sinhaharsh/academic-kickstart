@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Text-Convolutional Neural Networks for Fake News Detection in Tweets"
-authors: [admin]
+authors: [admin, Sakshi Kalra, Yashvardhan Sharma]
 date: 2020-04-05T16:18:20+05:30
-doi: ""
+doi: "10.1007/978-981-15-5788-0_8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-05T16:18:20+05:30

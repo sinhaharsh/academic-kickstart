@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Convolutional Neural Network-Based Human Identification Using Outer Ear Images"
-authors: []
+authors: [admin, Raunak Manekar, Yash Sinha, Pawan K Ajmera]
 date: 2018-10-31T16:18:37+05:30
 doi: "10.1007/978-981-13-1595-4_56"
 

@@ -25,7 +25,7 @@ interests:
 - Domain Adaptation
 - Biometrics
 - Machine Learning
-
+ 
 education:
   courses:
   - course: M.E. in Software Systems
@@ -34,7 +34,7 @@ education:
   - course: M.Sc.(Hons.) Chemistry
     institution: BITS Pilani
     year: 2018
-  - course: B.E.(Hons.) Electrical and Electronics Engineering
+  - course: B.E.(Hons.) Electrical and Electronics Engg
     institution: BITS Pilani
     year: 2018
 
@@ -68,4 +68,9 @@ user_groups:
 - Visitors
 ---
 
-
+_________________
+## **Recent Updates**
+- **11-2020 :** Paper accepted at *WACV 2021*.
+- **11-2020 :** Paper accepted at *AAAI 2021 Student Abstracts & Posters*.
+- **05-2020 :** Paper accepted at *CVPR 2020 Workshops:Vision for all Seasons*.
+_________________

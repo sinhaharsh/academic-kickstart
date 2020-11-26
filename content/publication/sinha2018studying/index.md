@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Studying the Role of Kinect as a Multi-Sensory Learning Platform for Children"
-authors: [admin]
+authors: [admin, Shivin Shrivastava, Yash Sinha]
 date: 2018-10-01T16:19:02+05:30
 doi: "10.1145/3267305.3267574"
 
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "UbiComp '18: Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers"
 publication_short: ""
 
-abstract: ""
+abstract: "According to the theory of Embodied Cognition, our behavior is a result of real-time interaction with surroundings, our cognitive skills, and the nervous system. From this perspective, researchers are considering a learning environment which promotes physical activities to achieve cognitive tasks. Such Natural User Interfaces (NUI) make use of gesture-based sensors like the Microsoft Kinect. Yet we lack in-depth studies of how they improve the learning process. In this paper, we present observations of two deployment studies which focus on different roles that NUI can play as a part of learning activities. We deploy the Kinect based applications:- Yoga Soft: A Digital Yoga Instructor and Mudra: A Kinect based Learning System in real life scenarios. The first study is conducted at residences of preadolescent children in Gurgaon, India. The second study is conducted at an education center specializing in the care of kindergarten children in Pilani, India."
 
 # Summary. An optional shortened abstract.
 summary: ""

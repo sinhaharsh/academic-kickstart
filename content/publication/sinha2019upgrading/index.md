@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Upgrading security and protection in Ear Biometrics"
-authors: []
+authors: [admin, Pawan K Ajmera]
 date: 2019-01-29T16:18:48+05:30
 doi: "10.1049/iet-bmt.2018.5081"
 
