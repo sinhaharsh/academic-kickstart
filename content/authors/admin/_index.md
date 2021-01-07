@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: BITS Pilani
-  url: "www.bits-pilani.ac.in"
+- name: University of Pittsburgh
+  url: "https://www.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, biometrics, domain adaptation, machine learning.
@@ -28,6 +28,8 @@ interests:
  
 education:
   courses:
+  - course: Ph.D. in Intelligent Systems
+    institution: University of Pittsburgh
   - course: M.E. in Software Systems
     institution: BITS Pilani
     year: 2020
