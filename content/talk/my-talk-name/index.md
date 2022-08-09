@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Medical Imaging meets Neurips"
+title: "Medical Imaging meets NeurIPS"
 event: "NeurIPS Workshops"
 event_url: https://sites.google.com/view/med-neurips-2022
 location:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-09-22T16:00:38-04:00
+date: 2022-09-22T16:00:38-04:00
 # date_end: 2022-08-09T16:00:38-04:00
 all_day: true
 
