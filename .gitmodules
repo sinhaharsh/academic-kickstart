@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/sinhaharsh/sinhaharsh.github.io.git
 	branch = master
+[submodule "conference-deadlines"]
+	path = conference-deadlines
+	url = https://github.com/sinhaharsh/conference-deadlines
